@@ -1,10 +1,5 @@
 # Proteomics data analysis
 
-# Contents
-- [1. Generate a PCA plot](#generate_PCA)
-- [2. Calculate ratios](#calculate_ratios)
-- [3. Identify proteins that change in expression over 2 fold](#identify_proteins)
-- [4. perform GO-term enrichment analysis](#perform_GO_term)
 
 # 1. Generate a PCA plot
 
